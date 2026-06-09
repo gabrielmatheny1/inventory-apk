@@ -1,0 +1,6 @@
+{
+    "versionCode": 60,
+    "versionName": "6.5",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v6.5.apk",
+    "notes": "Smart Import report (auto-detects Min/Max vs full parts list), Min/Max CSV fixed, sender-agnostic auto-pull with fresh-report watch, in-app updates, report-a-problem, and tech roster."
+}
