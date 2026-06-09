@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "6.7",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v6.7.apk",
-  "notes": "Warehouse bins on every part (import the warehouse list), warehouse-profile stock import (CSV & PDF), and barcode scans now match part numbers directly."
+  "versionCode": 63,
+  "versionName": "6.8",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v6.8.apk",
+  "notes": "Min/Max report fixed: set-up items now flag correctly into Requests, warranty-bin parts become return tasks (and never touch truck counts), and overstock/restock use the report's own quantities."
 }
