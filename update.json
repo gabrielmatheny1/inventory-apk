@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "7.6",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.6.apk",
-  "notes": "UI overhaul: admin and tech now see exactly what they should. Tech roster moved behind the admin console (it was open to everyone). New Admin console layout — team tools first, diagnostics last, plus a Cloud sync status card and an always-visible Admin console door on the admin's Profile. Check-in screens stop saying 'checkout'. 'Set up' is now called the same thing everywhere. Help & tour rewritten to match how the app actually works today."
+  "versionCode": 72,
+  "versionName": "7.7",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.7.apk",
+  "notes": "The whole daily flow, connected. NEW: your Daily plan now has 'Send check-out sheet' and 'Send check-in sheet' buttons — one tap loads your picks or returns (with bins and quantities) into the transfer cart and emails your parts dept; when they reply, your truck updates itself. New techs get a clear 'Let's load your truck' start instead of a dead end. Pick/Return amounts are bold and color-coded so the list reads at a glance. Tips and empty screens rewritten to match the real flow."
 }
