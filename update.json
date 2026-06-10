@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "7.8",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.8.apk",
-  "notes": "The app has its own login now. Profile slimmed to name, tech ID, email, phone — create your team account right there (Profile → Team account). Tech roster fills itself the moment someone signs up (no more registration emails); bug reports land straight in the admin's app. NEW 'Find part' on Home: search every truck on the team — see who has it, how many, their bin, call them, and how far away they are (location sharing is opt-in, off by default). Your truck syncs to the team cloud automatically. Email is now only used for pulling your min/max report. Also fixes: bins from the cloud now stamp immediately after you import your inventory."
+  "versionCode": 74,
+  "versionName": "7.9",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.9.apk",
+  "notes": "Onboarding finished: new techs now create their team account (or sign in) right inside the first-run setup — role, tour, who-you-are (name, Tech ID, email, phone), then Join the team. Signing up during onboarding puts you on the admin's roster instantly. Skippable — the app still works local-only until you sign in from Profile."
 }
