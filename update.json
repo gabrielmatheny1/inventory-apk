@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "7.5",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.5.apk",
-  "notes": "Cloud warehouse bins (first step off email). Admin: import the warehouse CSV once and it publishes to the cloud — every tech's app then pulls real shelf bins (A1013 etc.) onto their truck automatically, refreshed about once a day. Bins only ever sync; your truck counts stay private to your device. Falls back to local if the cloud is unreachable."
+  "versionCode": 71,
+  "versionName": "7.6",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.6.apk",
+  "notes": "UI overhaul: admin and tech now see exactly what they should. Tech roster moved behind the admin console (it was open to everyone). New Admin console layout — team tools first, diagnostics last, plus a Cloud sync status card and an always-visible Admin console door on the admin's Profile. Check-in screens stop saying 'checkout'. 'Set up' is now called the same thing everywhere. Help & tour rewritten to match how the app actually works today."
 }
