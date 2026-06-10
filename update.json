@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "7.3",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.3.apk",
-  "notes": "Auto-pull now also runs when you open the app. Setup triage: needs-setup parts no longer pile into one giant request — keep a part (set Min/Max) or tap Return to warehouse instead, and send your parts guy small clean batches."
+  "versionCode": 69,
+  "versionName": "7.4",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.4.apk",
+  "notes": "Set-up triage fix: parts on your truck with no Min/Max are no longer dumped into one giant Request. They get their own \"Set up\" list (Home, Inventory, and your Daily plan). For each: KEEP it (set a Min/Max — the only thing that becomes a request to your parts dept) or RETURN to shop, which drops it straight into your Check-IN cart so you can send the parts dept a clean list to pull off your truck. Requests now counts only your real add/change/remove requests."
 }
