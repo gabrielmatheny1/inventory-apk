@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "7.2",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.2.apk",
-  "notes": "Inventory movement history: every part added or removed is logged with why and when (check-in/out, report imports, manual edits). See recent movement on Home, tap for the full day-by-day history. Notifications now say whether parts were added to or removed from your truck."
+  "versionCode": 68,
+  "versionName": "7.3",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.3.apk",
+  "notes": "Auto-pull now also runs when you open the app. Setup triage: needs-setup parts no longer pile into one giant request — keep a part (set Min/Max) or tap Return to warehouse instead, and send your parts guy small clean batches."
 }
