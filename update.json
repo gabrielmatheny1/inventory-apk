@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "7.0",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.0.apk",
-  "notes": "NEW: Parts checkout — scan/search parts, send the parts dept an Excel (tech ID, date, qty, part, bin), and their reply auto-completes it and updates your truck. Problem reports now have categories and land in an admin inbox automatically. Admin setup is locked to the admin's Google account, with an Admins list in the admin menu."
+  "versionCode": 66,
+  "versionName": "7.1",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.1.apk",
+  "notes": "Clearer inventory cards (On truck: N in plain words, labeled Min/Max gauge, shop bin + qty right on the card). Check in/out: one screen for both directions — check-in tells the parts dept what to take OFF your truck and subtracts on completion. Tap any sent/completed transfer to see exactly what parts were on it."
 }
