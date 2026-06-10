@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "7.7",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.7.apk",
-  "notes": "The whole daily flow, connected. NEW: your Daily plan now has 'Send check-out sheet' and 'Send check-in sheet' buttons — one tap loads your picks or returns (with bins and quantities) into the transfer cart and emails your parts dept; when they reply, your truck updates itself. New techs get a clear 'Let's load your truck' start instead of a dead end. Pick/Return amounts are bold and color-coded so the list reads at a glance. Tips and empty screens rewritten to match the real flow."
+  "versionCode": 73,
+  "versionName": "7.8",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.8.apk",
+  "notes": "The app has its own login now. Profile slimmed to name, tech ID, email, phone — create your team account right there (Profile → Team account). Tech roster fills itself the moment someone signs up (no more registration emails); bug reports land straight in the admin's app. NEW 'Find part' on Home: search every truck on the team — see who has it, how many, their bin, call them, and how far away they are (location sharing is opt-in, off by default). Your truck syncs to the team cloud automatically. Email is now only used for pulling your min/max report. Also fixes: bins from the cloud now stamp immediately after you import your inventory."
 }
