@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "6.8",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v6.8.apk",
-  "notes": "Min/Max report fixed: set-up items now flag correctly into Requests, warranty-bin parts become return tasks (and never touch truck counts), and overstock/restock use the report's own quantities."
+  "versionCode": 64,
+  "versionName": "6.9",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v6.9.apk",
+  "notes": "Display size settings (text + layout scaling), bin numbers on the daily pick/return checklist, tech roster approve/deny with email replies, and the update link is now admin-locked."
 }
