@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "6.9",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v6.9.apk",
-  "notes": "Display size settings (text + layout scaling), bin numbers on the daily pick/return checklist, tech roster approve/deny with email replies, and the update link is now admin-locked."
+  "versionCode": 65,
+  "versionName": "7.0",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.0.apk",
+  "notes": "NEW: Parts checkout — scan/search parts, send the parts dept an Excel (tech ID, date, qty, part, bin), and their reply auto-completes it and updates your truck. Problem reports now have categories and land in an admin inbox automatically. Admin setup is locked to the admin's Google account, with an Admins list in the admin menu."
 }
