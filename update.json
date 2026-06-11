@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "8.1",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.1.apk",
-  "notes": "8.1 — the real overhaul. All-new floating pill navigation (Home · Truck · Scan · Daily · Profile) with a gradient active tab. Home rebuilt: your avatar, plus a Mission card that always shows the ONE next thing to do. Truck cards redesigned — big bold on-truck count, BIN as a chip, no more empty photo boxes. Daily rows lead with a colored ×qty block you can read from arm's length, and every send button is now a gradient action button."
+  "versionCode": 77,
+  "versionName": "8.2",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.2.apk",
+  "notes": "8.2 — flow fixes from the field. Nav bar no longer hides behind your phone's back/home buttons. Daily checkboxes now work the right way: check parts off as you grab them, and Send sheet emails exactly what you CHECKED. Inventory filters are actionable — viewing Restock gives you a one-tap check-out sheet, viewing Over gives you check-in. Warehouse publishing is now staff-only (techs keep local bins but can't overwrite the team's list)."
 }
