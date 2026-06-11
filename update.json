@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.4.apk",
-    "versionCode":  79,
-    "versionName":  "8.4",
-    "notes":  "Auto-sync: your truck now uploads to the Parts Desk by itself - on app open, when you leave the app, and a few seconds after any part change. Plus a Sync-my-truck-now button in Profile, and a fix for warehouse bins not loading."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.5.apk",
+    "versionCode":  80,
+    "versionName":  "8.5",
+    "notes":  "Fixes truck sync failing with a database error (null bin). Sync now works - your whole truck uploads to the Parts Desk on open, on close, after any change, or via the Sync button."
 }
