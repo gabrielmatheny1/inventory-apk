@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v8.8.apk",
-    "versionCode":  83,
-    "versionName":  "8.8",
-    "notes":  "Full 360 sync: bins fill in right after imports, every part movement shows on the Parts Desk, Min/Max requests get approved or denied from the desk (you get notified), and your daily plan progress shows on the fleet board."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v8.9.apk",
+    "versionCode":  84,
+    "versionName":  "8.9",
+    "notes":  "Big battery fix (background polling stopped cold), the Home tab always responds now, desk transfers show in Recent movement as \u0027Parts Desk transfer\u0027, and your requests screen shows live Pending/Approved/Denied status from the desk."
 }
