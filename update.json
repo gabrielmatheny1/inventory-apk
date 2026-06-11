@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "8.2",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.2.apk",
-  "notes": "8.2 — flow fixes from the field. Nav bar no longer hides behind your phone's back/home buttons. Daily checkboxes now work the right way: check parts off as you grab them, and Send sheet emails exactly what you CHECKED. Inventory filters are actionable — viewing Restock gives you a one-tap check-out sheet, viewing Over gives you check-in. Warehouse publishing is now staff-only (techs keep local bins but can't overwrite the team's list)."
+  "versionCode": 78,
+  "versionName": "8.3",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.3.apk",
+  "notes": "8.3 — bottom bar fixed. The five tabs are now equal, fixed lanes: the whole lane is tappable, nothing shifts when you switch tabs, and labels show on every tab. No more dead spots or stuck navigation."
 }
