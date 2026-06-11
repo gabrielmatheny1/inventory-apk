@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "8.0",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.0.apk",
-  "notes": "8.0 — the premium makeover. New signature look on every screen: gradient headers with depth, a real progress ring on your Daily plan, richer cards, and solid color-coded selections so you always know where you are. Plus: warehouse publishes now fully replace the cloud bin list (stale parts drop off), so what techs see always matches the latest warehouse report."
+  "versionCode": 76,
+  "versionName": "8.1",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.1.apk",
+  "notes": "8.1 — the real overhaul. All-new floating pill navigation (Home · Truck · Scan · Daily · Profile) with a gradient active tab. Home rebuilt: your avatar, plus a Mission card that always shows the ONE next thing to do. Truck cards redesigned — big bold on-truck count, BIN as a chip, no more empty photo boxes. Daily rows lead with a colored ×qty block you can read from arm's length, and every send button is now a gradient action button."
 }
