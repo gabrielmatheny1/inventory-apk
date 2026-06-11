@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.5.apk",
-    "versionCode":  80,
-    "versionName":  "8.5",
-    "notes":  "Fixes truck sync failing with a database error (null bin). Sync now works - your whole truck uploads to the Parts Desk on open, on close, after any change, or via the Sync button."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.6.apk",
+    "versionCode":  81,
+    "versionName":  "8.6",
+    "notes":  "Parts Desk transfers now land on your truck automatically. NEW: Parts Desk chat (Home tile) - message the warehouse right from the app. Plus a full Privacy \u0026 security page (Settings) showing exactly what the app connects to."
 }
