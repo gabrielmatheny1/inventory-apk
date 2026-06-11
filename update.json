@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "7.9",
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v7.9.apk",
-  "notes": "Onboarding finished: new techs now create their team account (or sign in) right inside the first-run setup — role, tour, who-you-are (name, Tech ID, email, phone), then Join the team. Signing up during onboarding puts you on the admin's roster instantly. Skippable — the app still works local-only until you sign in from Profile."
+  "versionCode": 75,
+  "versionName": "8.0",
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/Inventory-v8.0.apk",
+  "notes": "8.0 — the premium makeover. New signature look on every screen: gradient headers with depth, a real progress ring on your Daily plan, richer cards, and solid color-coded selections so you always know where you are. Plus: warehouse publishes now fully replace the cloud bin list (stale parts drop off), so what techs see always matches the latest warehouse report."
 }
