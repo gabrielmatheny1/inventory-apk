@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
-  "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-3.0.0.zip",
-  "notes": "Ground-up rebuild: enterprise UI, Flow Tech branding + watermark, responsive sidebar (Ctrl+B), toasts, skeleton loading, live connection status, truck deep links."
+  "version": "3.2.0",
+  "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-3.2.0.zip",
+  "notes": "Inbox fixed (stuck unread cleared, every thread visible, Mark all read), notifications bell with quick-access panel, movement history organized per tech with filters and day groups, per-line approve/deny on check sheets, and per-profile cloud state - nothing stored on the PC, sign in each launch."
 }
