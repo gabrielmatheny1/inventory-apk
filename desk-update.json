@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0",
-  "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-3.2.0.zip",
-  "notes": "Inbox fixed (stuck unread cleared, every thread visible, Mark all read), notifications bell with quick-access panel, movement history organized per tech with filters and day groups, per-line approve/deny on check sheets, and per-profile cloud state - nothing stored on the PC, sign in each launch."
+  "version": "4.1.0",
+  "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.1.0.zip",
+  "notes": "Desk 4.x: a true desktop workspace - fixed panes (no page scrolling), status bar, instant tab switching, right-click actions (send a part to a tech, message a tech), keyboard grid navigation, part-photo review queue with thumbnails, and photos shown right on the Warehouse grid."
 }
