@@ -1,5 +1,5 @@
 {
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-2.5.0.zip",
-    "version":  "2.5.0",
-    "notes":  "Full UI rebuild: a real desktop look, the Inbox and Messages merged into one place, and notification badges that clear once you\u0027ve read them."
+  "version": "3.0.0",
+  "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-3.0.0.zip",
+  "notes": "Ground-up rebuild: enterprise UI, Flow Tech branding + watermark, responsive sidebar (Ctrl+B), toasts, skeleton loading, live connection status, truck deep links."
 }
