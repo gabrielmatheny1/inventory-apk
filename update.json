@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.2.apk",
-    "versionCode":  87,
-    "versionName":  "9.2",
-    "notes":  "Friendlier Daily plan: now shows your top priorities first with a clean Show-all, plus warmer summaries — a real daily goal, not a wall of parts."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.3.apk",
+    "versionCode":  88,
+    "versionName":  "9.3",
+    "notes":  "New guided tour for first-time users (replay it anytime from Help), and your tour progress now saves to your account."
 }
