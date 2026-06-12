@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v8.9.apk",
-    "versionCode":  84,
-    "versionName":  "8.9",
-    "notes":  "Big battery fix (background polling stopped cold), the Home tab always responds now, desk transfers show in Recent movement as \u0027Parts Desk transfer\u0027, and your requests screen shows live Pending/Approved/Denied status from the desk."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.0.apk",
+    "versionCode":  85,
+    "versionName":  "9.0",
+    "notes":  "Quality release: fixes a rare bug where a Parts Desk transfer could apply twice on app start, better movement labels, smaller and cleaner app. Recommended for everyone."
 }
