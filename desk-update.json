@@ -1,5 +1,5 @@
 {
     "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases",
-    "version":  "2.1.0",
-    "notes":  "Approvals unified, missing-parts fix, per-user attribution, configurable backend, settings + updates."
+    "version":  "2.2.0",
+    "notes":  "Guided welcome tour, tour saved to your account, plus the v2.1 unification + configurable backend."
 }
