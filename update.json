@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.0.apk",
-    "versionCode":  85,
-    "versionName":  "9.0",
-    "notes":  "Quality release: fixes a rare bug where a Parts Desk transfer could apply twice on app start, better movement labels, smaller and cleaner app. Recommended for everyone."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.1.apk",
+    "versionCode":  86,
+    "versionName":  "9.1",
+    "notes":  "BETA: bins now always correct. Lost your phone? Sign in and restore your whole truck. New: message teammates directly, see who has a part and how far away they are (with a map), check-out sheets go to the Parts Desk for one-click approval, notifications work even with the app closed, and the Daily page got a full reorganization. Scan tab opens the camera instantly."
 }
