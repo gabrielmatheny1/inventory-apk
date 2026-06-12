@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.3.apk",
-    "versionCode":  88,
-    "versionName":  "9.3",
-    "notes":  "New guided tour for first-time users (replay it anytime from Help), and your tour progress now saves to your account."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.5.apk",
+  "versionCode": 90,
+  "versionName": "9.5",
+  "notes": "Check sheets now go straight to the Parts Desk (no email) - denied items pop back onto your Daily automatically, and you can watch sheets at the desk right from the plan. NEW shared part-photo library: snap a photo of a part and, once the desk approves it, every tech sees it."
 }
