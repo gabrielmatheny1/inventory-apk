@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.1.apk",
-    "versionCode":  86,
-    "versionName":  "9.1",
-    "notes":  "BETA: bins now always correct. Lost your phone? Sign in and restore your whole truck. New: message teammates directly, see who has a part and how far away they are (with a map), check-out sheets go to the Parts Desk for one-click approval, notifications work even with the app closed, and the Daily page got a full reorganization. Scan tab opens the camera instantly."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.2.apk",
+    "versionCode":  87,
+    "versionName":  "9.2",
+    "notes":  "Friendlier Daily plan: now shows your top priorities first with a clean Show-all, plus warmer summaries — a real daily goal, not a wall of parts."
 }
