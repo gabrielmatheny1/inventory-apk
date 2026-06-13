@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.8.apk",
-  "versionCode": 93,
-  "versionName": "9.8",
-  "notes": "Your Min/Max levels now sync down from the parts desk automatically — no more emailing or pulling reports in. The daily report still imports from a file or paste anytime. We retired the old Gmail/Outlook auto-import, tidied up the Profile and Import screens, and kept dispatch → Time Clock working."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.9.apk",
+  "versionCode": 94,
+  "versionName": "9.9",
+  "notes": "Under-the-hood cleanup and tune-up. Removed leftover code from the retired email auto-import so the app is leaner and tidier. No change to how you work — same report import, daily plan, levels sync, and dispatch."
 }
