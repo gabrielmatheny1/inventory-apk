@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.6.apk",
-  "versionCode": 91,
-  "versionName": "9.6",
-  "notes": "Find-a-part now shows where the shop stocks any part - bin + quantity - even parts not on your truck, with one-tap request to add. Parts the shop doesn't carry under your exact number now point you to the closest match's shelf. Find-a-part no longer crashes. Messages are now private 1:1 chats with the parts desk and teammates; team posts are read-only. Plus a 'type it instead' option when a barcode won't scan, and Home/navigation fixes."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.7.apk",
+  "versionCode": 92,
+  "versionName": "9.7",
+  "notes": "Polish + UI uplift across the app. Profile is cleaner and grouped, with a tap-to-change logo. Set-up and Min/Max now block an invalid Min-over-Max before you send. Bigger, easier-tap buttons on Check-in/out, Min/Max and Find-a-part. A failed message keeps your typed text and tells you. Clearer empty and loading states everywhere, friendlier Messages list, and lots of accessibility + visual refinements. (Shows your company name + version on Profile.)"
 }
