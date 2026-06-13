@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.5.apk",
-  "versionCode": 90,
-  "versionName": "9.5",
-  "notes": "Check sheets now go straight to the Parts Desk (no email) - denied items pop back onto your Daily automatically, and you can watch sheets at the desk right from the plan. NEW shared part-photo library: snap a photo of a part and, once the desk approves it, every tech sees it."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.6.apk",
+  "versionCode": 91,
+  "versionName": "9.6",
+  "notes": "Find-a-part now shows where the shop stocks any part - bin + quantity - even parts not on your truck, with one-tap request to add. Parts the shop doesn't carry under your exact number now point you to the closest match's shelf. Find-a-part no longer crashes. Messages are now private 1:1 chats with the parts desk and teammates; team posts are read-only. Plus a 'type it instead' option when a barcode won't scan, and Home/navigation fixes."
 }
