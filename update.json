@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v9.9.apk",
-  "versionCode": 94,
-  "versionName": "9.9",
-  "notes": "Under-the-hood cleanup and tune-up. Removed leftover code from the retired email auto-import so the app is leaner and tidier. No change to how you work — same report import, daily plan, levels sync, and dispatch."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.0.apk",
+  "versionCode": 95,
+  "versionName": "10.0",
+  "notes": "Messaging upgrade. Read receipts on your messages (✓ sent, ✓✓ delivered, ✓✓ read). Archive a conversation to hide it (nothing is deleted), or Delete it to clear it from your phone. Long-press your own message to Unsend it for everyone. Unread badges are now accurate and match across phone and desktop."
 }
