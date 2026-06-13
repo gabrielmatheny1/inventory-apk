@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.0.apk",
-  "versionCode": 95,
-  "versionName": "10.0",
-  "notes": "Messaging upgrade. Read receipts on your messages (✓ sent, ✓✓ delivered, ✓✓ read). Archive a conversation to hide it (nothing is deleted), or Delete it to clear it from your phone. Long-press your own message to Unsend it for everyone. Unread badges are now accurate and match across phone and desktop."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.1.apk",
+  "versionCode": 96,
+  "versionName": "10.1",
+  "notes": "Your whole team is always in Messages now, like a contact list — deleting a conversation only clears the chat, it never removes the person, so you can always message them again. Anyone you've messaged before stays reachable too."
 }
