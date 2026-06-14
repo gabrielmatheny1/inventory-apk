@@ -1,5 +1,5 @@
 {
-    "version":  "4.2.9",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.9.zip",
-    "notes":  "Profiles are now unique across the team. Names must be unique — sign-up checks the name before creating your account and tells you if it's taken, instead of failing silently. (Backed by database rules so no two accounts can share a name, email, Tech ID, or phone.)"
+    "version":  "4.3.0",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.3.0.zip",
+    "notes":  "Reliability: approvals, transfers and quantity edits are now all-or-nothing — a dropped connection mid-operation can no longer half-apply a move or double-apply a re-approved sheet. Errors now read in plain English instead of raw server codes. Search no longer breaks on a comma."
 }
