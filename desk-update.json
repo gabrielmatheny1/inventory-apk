@@ -1,1 +1,5 @@
-{"version":"4.2.4","url":"https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.4.zip","notes":"Transfers: the part you picked now stays selected when you switch the move type (Warehouse→Tech, Tech→Tech, Tech→Warehouse) or the From tech — it no longer clears, and its available count re-checks against the new source. Problem reports: a new Reply button messages the tech who filed it (they get it in their phone Messages), not just Resolve. Roster now shows each tech's CURRENT app version, updated every time they open the app."}
+{
+    "version":  "4.2.5",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.5.zip",
+    "notes":  "Parts requests now surface on the Approvals check-out sheet: when a tech requests a warehouse part from their phone (Find a part / Lookup), it lands here with the part, bin, quantity AND their note (e.g. \"is it really in stock?\") — approve it straight to their truck. No email involved."
+}
