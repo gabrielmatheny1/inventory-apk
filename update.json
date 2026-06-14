@@ -1,6 +1,6 @@
 {
-    "versionCode":  102,
-    "versionName":  "10.7",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.7.apk",
-    "notes":  "Saving your profile now tells you if a name, Tech ID, or phone is already used by a teammate, instead of silently failing. The truck status counts (Restock/Stocked/Over) stay truck-wide while you search. Minor sync fixes."
+    "versionCode":  103,
+    "versionName":  "10.8",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.8.apk",
+    "notes":  "The \"Admin\" role is now shown as \"Office\"."
 }
