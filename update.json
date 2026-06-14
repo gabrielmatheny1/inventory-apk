@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.3.apk",
-    "versionCode":  98,
-    "versionName":  "10.3",
-    "notes":  "Find any part without a part number: in Scan/Lookup, search the warehouse by name, see its bin and how many the shop has, and tap Request to send it to your parts desk — it also messages a parts person so you can sort it out right in chat. Tapping a part now opens a cleaner, at-a-glance detail screen."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.4.apk",
+    "versionCode":  99,
+    "versionName":  "10.4",
+    "notes":  "Find a part now searches the shop too: from the Find part tile (or Scan/Lookup), search by name to see what\u0027s at the warehouse — bin and how many in stock — right alongside which teammates are carrying it, and tap Request to send it to your parts desk."
 }
