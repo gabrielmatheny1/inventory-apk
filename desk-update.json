@@ -1,5 +1,5 @@
 {
-    "version":  "4.2.5",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.5.zip",
-    "notes":  "Parts requests now surface on the Approvals check-out sheet: when a tech requests a warehouse part from their phone (Find a part / Lookup), it lands here with the part, bin, quantity AND their note (e.g. \"is it really in stock?\") — approve it straight to their truck. No email involved."
+    "version":  "4.2.6",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.6.zip",
+    "notes":  "Right-click a warehouse part to Edit quantity with a reason (direct sale, received, adjusted, scrap) — the change logs to the Activity feed. Add a note to any part (what it\u0027s actually for): keep it private to your desk or share it so every tech sees it on the part. A chime plays when a new notification arrives. Tech part requests now show their note on the check-out sheet, and CSV refreshes no longer wipe shared notes."
 }
