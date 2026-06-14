@@ -1,5 +1,5 @@
 {
-    "version":  "4.2.8",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.8.zip",
-    "notes":  "Fix: replying to a problem report you filed yourself no longer errors (you can't message yourself) — the Reply button now only appears on reports from other people."
+    "version":  "4.2.9",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.9.zip",
+    "notes":  "Profiles are now unique across the team. Names must be unique — sign-up checks the name before creating your account and tells you if it's taken, instead of failing silently. (Backed by database rules so no two accounts can share a name, email, Tech ID, or phone.)"
 }
