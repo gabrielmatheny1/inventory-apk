@@ -1,6 +1,6 @@
 {
-  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.1.apk",
-  "versionCode": 96,
-  "versionName": "10.1",
-  "notes": "Your whole team is always in Messages now, like a contact list — deleting a conversation only clears the chat, it never removes the person, so you can always message them again. Anyone you've messaged before stays reachable too."
+  "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.2.apk",
+  "versionCode": 97,
+  "versionName": "10.2",
+  "notes": "Your app version now stays current on the team roster automatically, so the parts desk can always see exactly which version you're running if there's ever an issue. (No change to how you work.)"
 }
