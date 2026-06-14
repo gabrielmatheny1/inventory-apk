@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.4.apk",
-    "versionCode":  99,
-    "versionName":  "10.4",
-    "notes":  "Find a part now searches the shop too: from the Find part tile (or Scan/Lookup), search by name to see what\u0027s at the warehouse — bin and how many in stock — right alongside which teammates are carrying it, and tap Request to send it to your parts desk."
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.5.apk",
+    "versionCode":  100,
+    "versionName":  "10.5",
+    "notes":  "Smarter search everywhere: type a part number any way you like — dashes, spaces, or any word order — and the right part comes up, the same as the parts desk. This works in Inventory, the Scan/Lookup tab, and Find a part (which now also searches the shop). Hold any item to copy its part number. Added tactile feedback on taps. Parts-desk notes now show on warehouse parts, and work orders shared from GoFormz pick up parts more reliably."
 }
