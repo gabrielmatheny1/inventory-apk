@@ -1,5 +1,5 @@
 {
-    "version":  "4.2.7",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.7.zip",
-    "notes":  "New: the first-run tutorial is now a live guided walkthrough — arrows point right at each sidebar tab and show you what to do (including right-clicking a warehouse part to edit quantity or add a note), switching screens as it goes. Replay anytime from Settings - Take tour again."
+    "version":  "4.2.8",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.2.8.zip",
+    "notes":  "Fix: replying to a problem report you filed yourself no longer errors (you can't message yourself) — the Reply button now only appears on reports from other people."
 }
