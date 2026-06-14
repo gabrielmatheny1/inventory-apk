@@ -1,5 +1,5 @@
 {
-    "version":  "4.3.0",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.3.0.zip",
-    "notes":  "Reliability: approvals, transfers and quantity edits are now all-or-nothing — a dropped connection mid-operation can no longer half-apply a move or double-apply a re-approved sheet. Errors now read in plain English instead of raw server codes. Search no longer breaks on a comma."
+    "version":  "4.3.1",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.3.1.zip",
+    "notes":  "The \"Admin\" role is now shown as \"Office\" (in the roster, role picker, and sign-in screens)."
 }
