@@ -1,6 +1,6 @@
 {
-    "versionCode":  104,
-    "versionName":  "10.9",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.9.apk",
-    "notes":  "Parts Handlers now get a full mobile Parts Desk: Home, Approvals (approve tech check-out/in sheets, Min/Max requests, photos), Stock, Team (manage roster + chat), Transfers, Activity and Reports — plus scan a part to transfer it, check/adjust its quantity, or add it to the warehouse. (Techs are unaffected.)"
+    "versionCode":  105,
+    "versionName":  "10.10",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v10.10.apk",
+    "notes":  "Live updates: messages, approvals, requests, transfers and the activity feed now update instantly while the app is open — no more waiting for a refresh. Falls back to the usual sync if the connection drops."
 }
