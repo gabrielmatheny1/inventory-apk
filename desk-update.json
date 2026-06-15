@@ -1,5 +1,5 @@
 {
-    "version":  "4.3.1",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.3.1.zip",
-    "notes":  "The \"Admin\" role is now shown as \"Office\" (in the roster, role picker, and sign-in screens)."
+    "version":  "4.3.2",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.3.2.zip",
+    "notes":  "Live updates: the desk now refreshes the instant a tech submits a request, sends a message, or stock moves — no more waiting. (Falls back to an 8-second auto-refresh if the live connection drops.)"
 }
