@@ -1,6 +1,6 @@
 {
-    "versionCode": 109,
-    "versionName": "11.3",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.3.apk",
-    "notes": "Push notifications now show your Flow Tech icon and brand color, and tapping one jumps straight to the right screen — your messages, your truck, or approvals. Get notified the moment a teammate messages you, the desk approves a request, or a part lands on your truck — even with the app closed."
+    "versionCode": 110,
+    "versionName": "11.4",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.4.apk",
+    "notes": "Reliability fix: your phone now re-registers for push notifications the instant you sign in or switch accounts — so you never miss an alert after logging in. Plus the branded push icon and tap-to-open-the-right-screen from the last update."
 }
