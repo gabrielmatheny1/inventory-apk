@@ -1,6 +1,6 @@
 {
-    "versionCode": 110,
-    "versionName": "11.4",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.4.apk",
-    "notes": "Reliability fix: your phone now re-registers for push notifications the instant you sign in or switch accounts — so you never miss an alert after logging in. Plus the branded push icon and tap-to-open-the-right-screen from the last update."
+    "versionCode": 111,
+    "versionName": "11.5",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.5.apk",
+    "notes": "Shared work orders now read your parts correctly. The PDF importer is much smarter: it pulls parts from many more layouts (and handles tables that used to come through scrambled, which was why parts could show up empty), and the job description no longer gets cut off — the full multi-line write-up comes through."
 }
