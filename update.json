@@ -1,6 +1,6 @@
 {
-    "versionCode": 108,
-    "versionName": "11.2",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.2.apk",
-    "notes": "Push notifications: get alerted to new messages, approvals, transfers and decisions even when the app is closed. Plus a polished, branded sign-in and a clearer setup flow — sign in, join your branch with a code, then set up your profile."
+    "versionCode": 109,
+    "versionName": "11.3",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.3.apk",
+    "notes": "Push notifications now show your Flow Tech icon and brand color, and tapping one jumps straight to the right screen — your messages, your truck, or approvals. Get notified the moment a teammate messages you, the desk approves a request, or a part lands on your truck — even with the app closed."
 }
