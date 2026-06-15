@@ -1,5 +1,5 @@
 {
-    "version": "4.4.2",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.2.zip",
-    "notes": "Fix: truck inventory & Min/Max uploads now show a clear, can't-miss error if one fails (e.g. an expired session prompts you to sign out and back in) instead of failing silently with nothing on screen."
+    "version": "4.4.3",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.3.zip",
+    "notes": "When you open the desk to work already waiting (pending approvals, unread messages), it now gives one gentle heads-up — a single chime and a 'N items need you' note — instead of a silent badge. One nudge only, never repeated."
 }
