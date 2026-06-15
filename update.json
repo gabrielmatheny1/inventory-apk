@@ -1,6 +1,6 @@
 {
-    "versionCode": 106,
-    "versionName": "11.0",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.0.apk",
-    "notes": "Flow Tech is now a full team app. Sign in and connect to your company with a branch join code from your office. Your data stays inside your company, private from every other branch and business. New teammates land pending until the office approves them."
+    "versionCode": 108,
+    "versionName": "11.2",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.2.apk",
+    "notes": "Push notifications: get alerted to new messages, approvals, transfers and decisions even when the app is closed. Plus a polished, branded sign-in and a clearer setup flow — sign in, join your branch with a code, then set up your profile."
 }
