@@ -1,5 +1,5 @@
 {
-    "version": "4.4.3",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.3.zip",
-    "notes": "When you open the desk to work already waiting (pending approvals, unread messages), it now gives one gentle heads-up — a single chime and a 'N items need you' note — instead of a silent badge. One nudge only, never repeated."
+    "version": "4.4.4",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.4.zip",
+    "notes": "The desk now pops a native Windows notification (with a system-tray icon) when a tech sends a message or parts request while the desk is minimized or behind another window — so the office gets alerted on the computer even when they're not watching it. Notifications only fire when the desk isn't the focused window, so they never interrupt active work."
 }
