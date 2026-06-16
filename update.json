@@ -1,6 +1,6 @@
 {
-    "versionCode": 111,
-    "versionName": "11.5",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.5.apk",
-    "notes": "Shared work orders now read your parts correctly. The PDF importer is much smarter: it pulls parts from many more layouts (and handles tables that used to come through scrambled, which was why parts could show up empty), and the job description no longer gets cut off — the full multi-line write-up comes through."
+    "versionCode": 112,
+    "versionName": "11.6",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.6.apk",
+    "notes": "Fresh look — FlowTech has a brand-new app icon: the metallic FT mark with the FlowTech wave. No other changes in this one."
 }
