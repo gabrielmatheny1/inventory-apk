@@ -1,5 +1,5 @@
 {
-    "version": "4.4.5",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.5.zip",
-    "notes": "Smarter truck-inventory & Min/Max CSV import. It now reads the exports that used to fail silently — Dynamics GP reports (ItemNmbr, Qty On Hand, Min Order Point) with title lines above the header, tab/semicolon/pipe files, quoted thousands like \"1,663\", and messy header names. Before applying it shows the detected columns, and it warns if a full-truck upload has no quantity column (so it can't silently zero everyone's on-hand counts)."
+    "version": "4.4.6",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.6.zip",
+    "notes": "Fresh look — the Parts Desk now wears the new FlowTech logo (window, taskbar, and installer icons all updated). No other changes."
 }
