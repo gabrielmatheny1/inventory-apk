@@ -1,6 +1,6 @@
 {
-    "versionCode": 112,
-    "versionName": "11.6",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.6.apk",
-    "notes": "Fresh look — FlowTech has a brand-new app icon: the metallic FT mark with the FlowTech wave. No other changes in this one."
+    "versionCode": 113,
+    "versionName": "11.7",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.7.apk",
+    "notes": "Your work now backs up safely. Your daily plan — including which items you've checked off — is saved to the cloud and comes back on its own if you reinstall, clear the app, or switch devices. No more lost daily progress. Truck inventory, Min/Max, and shop quantities all back up and restore too, and an empty phone can never wipe your cloud inventory. Also: if you ever land on the 'ask the desk to switch you to the Parts role' screen by mistake, there's now a one-tap 'Switch back to Field Tech' button."
 }
