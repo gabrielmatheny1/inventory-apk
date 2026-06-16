@@ -1,5 +1,5 @@
 {
-    "version": "4.4.6",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.6.zip",
-    "notes": "Fresh look — the Parts Desk now wears the new FlowTech logo (window, taskbar, and installer icons all updated). No other changes."
+    "version": "4.4.7",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.7.zip",
+    "notes": "Two fixes from the office. (1) Notifications you won't miss: when something lands while the desk is behind another window, the taskbar button now flashes until you click back — not just a toast that vanishes in a few seconds — and a standing alert waits for you on the desk. (2) Your part notes are now searchable: search finds a part by the note you wrote on it (so 'splashguard' turns it up even if the catalog says 'fillguard'), and the note shows right there in the results."
 }
