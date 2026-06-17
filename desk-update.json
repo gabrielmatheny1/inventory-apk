@@ -1,5 +1,5 @@
 {
-    "version": "4.4.7",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.7.zip",
-    "notes": "Two fixes from the office. (1) Notifications you won't miss: when something lands while the desk is behind another window, the taskbar button now flashes until you click back — not just a toast that vanishes in a few seconds — and a standing alert waits for you on the desk. (2) Your part notes are now searchable: search finds a part by the note you wrote on it (so 'splashguard' turns it up even if the catalog says 'fillguard'), and the note shows right there in the results."
+    "version": "4.4.8",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.8.zip",
+    "notes": "Three things. (1) NEW Work Orders section — one smart search finds any call by call #, part # or name, tech name/ID, or site, and shows the exact parts used on it. (2) Min/Max upload fixed — the desk now reads the Order Point / Order Up To columns (Dynamics GP), so a Min/Max upload from the same CSV works (full inventory now carries Min/Max too). (3) Auto-update fixed — updates install themselves now; no more deleting and replacing the folder by hand. Plus Print buttons on Work Orders and the warehouse list. NOTE: this one last update still needs the manual folder-replace; after it, updates are automatic."
 }
