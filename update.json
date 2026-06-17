@@ -1,6 +1,6 @@
 {
-    "versionCode":  115,
-    "versionName":  "11.9",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.9.apk",
-    "notes":  "Request a part straight from another tech. In Find a Part, press and hold any teammate\u0027s part for quick actions: Request transfer, Message, Call, Directions, or Copy #. A transfer request goes to the tech who has the part first — they confirm or deny that they have it — and once they confirm, it\u0027s sent to the office to make the move. A new \"Part requests\" card on your home screen shows any requests waiting on you, and the tech who asked sees the status update live."
+    "versionCode":  116,
+    "versionName":  "12.0",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.0.apk",
+    "notes":  "Live inventory sync. Your truck now updates the moment the office uploads inventory or Min/Max — no need to close and reopen the app. New parts appear, removed parts drop off, counts and levels refresh automatically, with the cloud as the source of truth. Anything you change offline is kept and synced up the instant you\u0027re back online (a count you make in the field is never overwritten by an upload). The manual import is now a clearly-labeled fallback for when the office can\u0027t push to you."
 }
