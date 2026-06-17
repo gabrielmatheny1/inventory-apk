@@ -1,6 +1,6 @@
 {
-    "versionCode": 113,
-    "versionName": "11.7",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.7.apk",
-    "notes": "Your work now backs up safely. Your daily plan — including which items you've checked off — is saved to the cloud and comes back on its own if you reinstall, clear the app, or switch devices. No more lost daily progress. Truck inventory, Min/Max, and shop quantities all back up and restore too, and an empty phone can never wipe your cloud inventory. Also: if you ever land on the 'ask the desk to switch you to the Parts role' screen by mistake, there's now a one-tap 'Switch back to Field Tech' button."
+    "versionCode": 114,
+    "versionName": "11.8",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.8.apk",
+    "notes": "Part history + printing. Every part you use on a shared work order is now tied to its call # — open any part and tap “View usage history” to see every call it was used on, who used it, how many, and when. New Print buttons (real printer or Save as PDF) on part history, your daily plan, your truck inventory with Min/Max, and a site's work orders."
 }
