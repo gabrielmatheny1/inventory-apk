@@ -1,6 +1,6 @@
 {
-    "versionCode": 114,
-    "versionName": "11.8",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.8.apk",
-    "notes": "Part history + printing. Every part you use on a shared work order is now tied to its call # — open any part and tap “View usage history” to see every call it was used on, who used it, how many, and when. New Print buttons (real printer or Save as PDF) on part history, your daily plan, your truck inventory with Min/Max, and a site's work orders."
+    "versionCode":  115,
+    "versionName":  "11.9",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v11.9.apk",
+    "notes":  "Request a part straight from another tech. In Find a Part, press and hold any teammate\u0027s part for quick actions: Request transfer, Message, Call, Directions, or Copy #. A transfer request goes to the tech who has the part first — they confirm or deny that they have it — and once they confirm, it\u0027s sent to the office to make the move. A new \"Part requests\" card on your home screen shows any requests waiting on you, and the tech who asked sees the status update live."
 }
