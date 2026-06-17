@@ -1,5 +1,5 @@
 {
-    "version": "4.4.8",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.8.zip",
-    "notes": "Three things. (1) NEW Work Orders section — one smart search finds any call by call #, part # or name, tech name/ID, or site, and shows the exact parts used on it. (2) Min/Max upload fixed — the desk now reads the Order Point / Order Up To columns (Dynamics GP), so a Min/Max upload from the same CSV works (full inventory now carries Min/Max too). (3) Auto-update fixed — updates install themselves now; no more deleting and replacing the folder by hand. Plus Print buttons on Work Orders and the warehouse list. NOTE: this one last update still needs the manual folder-replace; after it, updates are automatic."
+    "version":  "4.4.9",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.4.9.zip",
+    "notes":  "Transfer requests. When a tech asks another tech for a part and that tech confirms they have it, the request now lands in Approvals under \"Transfer requests\" — one click on \"Make the transfer\" records the hand-off and notifies both techs. This update installs itself automatically (no more deleting and replacing the folder)."
 }
