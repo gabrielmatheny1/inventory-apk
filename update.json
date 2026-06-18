@@ -1,7 +1,7 @@
 {
-    "versionCode":  121,
-    "versionName":  "12.5",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.5.apk",
-    "sha256":  "83ab3f88ee201cb7c21b1ed2a19ea831f0e5eac2d0f1d8a4f97cc58f53275626",
-    "notes":  "Manuals: when the office attaches a PDF manual to a part, open the part and tap it under \u0027Manuals\u0027 to view it. Also: in messages you can now highlight and copy text."
+    "versionCode": 122,
+    "versionName": "12.6",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.6.apk",
+    "sha256": "641a6287794a58d67b3bc7c2016dc950f50bc18772defc0c64fab8b7dc5ad3c7",
+    "notes": "Smarter search everywhere. Warehouse stock now uses the same smart search as your truck: type a part any way you like ('203 0447' finds '203-0447'), and search by name, SKU, barcode, mfr part #, bin, or even qty:<5. Manuals now open whether you look up a part by its item #, mfr part #, or barcode."
 }
