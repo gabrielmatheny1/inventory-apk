@@ -1,7 +1,7 @@
 {
-    "version":  "4.5.1",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.1.zip",
-    "sha256":  "e792428c1fc656a03d5875f736b12fbd3a41d0d9cfab98b5d8c2ee3507ca3996",
-    "sig":  "LRtV+AgyQvodKyoVmyKEtrqFEBMFheunELRUxGb0H/8gQX1vCj1Vvg2mz7TyRs8C3PSuz1lLPYcrC06L6PEFuFcfMLJT1WZKSn9S2U6i0E6QNzRSlJjA83kgjhEpzXJiv0pkSCL7zDnUj4Loee2ORKTfotRFXNkgZ0tCN5e4Rby8UjecxpTrlNZrYbePyW/mJ0tjFTR/l2hGlGziyB8yZvZju6vkY/bdBXcC8h3wmD4nzzv37R9v7XrvFecbpPJKL9eDTiC96dQ5UqJe0sOI5j3z/CMI6sg+Ibrb9iTJ5ze0/qVFtB2esjavcM/Gn/0dhovYR7KZm4qP8hKtMd6zsw==",
-    "notes":  "New \u0027Superseded\u0027 tab: map an old/discontinued part number to the current one (old # -\u003e current #). Techs then see the current number to order on the old part, and a current part shows what it replaces. This update is verified + installs itself."
+    "version":  "4.5.2",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.2.zip",
+    "sha256":  "518f2933ce9c2b737d410006ee81d03ceeefc44de21f3925f0b2fbc92159b813",
+    "sig":  "XeJLQcEkCA7CZxaiEiLKCNLDvvNOIrPjf5c+zyYeaUku47wkvlaUOcHv7CTmbajrvA+8f6lRmrkGV+/tZZc/QeXivU53kKhP9nNNuU2wd4gM9azF8JKAhIWKm7xXF66smMqfIw4XHl1uQEUbWNqNX0dpgMDzm6S4N9m7AjQCszwKM5jdwvY3+FMi/yAaJR93gZRqPMLscM4t2MnJtzalVR2lW27f8hLapMES9g8BT8a0UKqqAniX3K40giNd/aCqq1U+VGU3Xrw0P/CLPxTYir8AymGbmKTDo+QgSMILauXYOG+7FNe+dVRFnx2rW87Pu9KLrh19YjBXdgJtFuLnHA==",
+    "notes":  "New \u0027Manuals\u0027 tab: attach a PDF manual to a part number (PDF, up to 25 MB) and it\u0027s instantly available to techs in the app on that part. Also: message text is now selectable (highlight + Ctrl+C to copy). Verified, signed, self-installing update."
 }
