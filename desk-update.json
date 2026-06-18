@@ -1,7 +1,7 @@
 {
-    "version":  "4.5.0",
-    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.0.zip",
-    "sha256":  "60c8e44b3e68ad40713eb2e06b1683f619585593b2bf225bf67d533476a56c3d",
-    "sig":  "guVxf7wDdSxWgg1ohNfkEijgvUlYhn3z4IoF3+hIDkytA71D2WWJnlQwAb0okF7usDbh3lFDtkqwsV2f1deyTqf4xfG99wmdMQcjFtTy5Zb++6tbN2CCySEocJU1rn/fdWB1zmC7vEQ66ahjUCY0ptOqf+QpQ8/HQGk2LwznMotdUrAVYLTEZPDRrqKJbrdLuCQMWUc7n/exTFdlJhTsmyoW+RAaj+ylywHJmZ4fNvKNVyQ9F6sZK8Tz9liSYbcwwFbvok0G0Ft+LsdaBuQWvuL4PShSP/wR2LfGGf4//F4OLyWrzTRPCUYOxCBT92/C253A41DF/yPyZwoNrYbclQ==",
-    "notes":  "Security hardening: the auto-updater now cryptographically verifies each update (SHA-256 + a signature only FlowTech can produce) and only accepts downloads from FlowTech\u0027s GitHub over HTTPS, so a tampered or fake update is refused. NOTE: installing 4.5.0 itself still uses the old folder-replace path; from 4.5.0 onward, updates are verified automatically."
+    "version":  "4.5.1",
+    "url":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.1.zip",
+    "sha256":  "e792428c1fc656a03d5875f736b12fbd3a41d0d9cfab98b5d8c2ee3507ca3996",
+    "sig":  "LRtV+AgyQvodKyoVmyKEtrqFEBMFheunELRUxGb0H/8gQX1vCj1Vvg2mz7TyRs8C3PSuz1lLPYcrC06L6PEFuFcfMLJT1WZKSn9S2U6i0E6QNzRSlJjA83kgjhEpzXJiv0pkSCL7zDnUj4Loee2ORKTfotRFXNkgZ0tCN5e4Rby8UjecxpTrlNZrYbePyW/mJ0tjFTR/l2hGlGziyB8yZvZju6vkY/bdBXcC8h3wmD4nzzv37R9v7XrvFecbpPJKL9eDTiC96dQ5UqJe0sOI5j3z/CMI6sg+Ibrb9iTJ5ze0/qVFtB2esjavcM/Gn/0dhovYR7KZm4qP8hKtMd6zsw==",
+    "notes":  "New \u0027Superseded\u0027 tab: map an old/discontinued part number to the current one (old # -\u003e current #). Techs then see the current number to order on the old part, and a current part shows what it replaces. This update is verified + installs itself."
 }
