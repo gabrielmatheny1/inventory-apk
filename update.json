@@ -1,7 +1,7 @@
 {
-    "versionCode": 122,
-    "versionName": "12.6",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.6.apk",
-    "sha256": "641a6287794a58d67b3bc7c2016dc950f50bc18772defc0c64fab8b7dc5ad3c7",
-    "notes": "Smarter search everywhere. Warehouse stock now uses the same smart search as your truck: type a part any way you like ('203 0447' finds '203-0447'), and search by name, SKU, barcode, mfr part #, bin, or even qty:<5. Manuals now open whether you look up a part by its item #, mfr part #, or barcode."
+    "versionCode": 123,
+    "versionName": "12.7",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.7.apk",
+    "sha256": "ab6f05f868bcd1466d0ec95ad9369267ca53b795d65ed82f0d4bed01dd1387e6",
+    "notes": "Smoother + safer. Your check-out/check-in cart now survives a crash or restart — it's saved as you build it. On Find a Part, every teammate who's carrying it has a one-tap 'Request transfer' button (no more long-press hunting). And behind the scenes, desk transfers and shared part photos sync more reliably."
 }
