@@ -1,7 +1,7 @@
 {
-    "versionCode":  119,
-    "versionName":  "12.3",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.3.apk",
-    "sha256":  "15aa37225903638849a4214a0bae7e8ce5e9da4d2c93a3d76ec617fd20a291a3",
-    "notes":  "Warehouse Min/Max: warehouse parts now show stock health like the truck does — a Low / Overstock / Needs-setup tag in the list, and a Stock status view (with a Min-Max gauge and how many to order) when you open a part. Imports now read Dynamics GP \u0027Order Point / Order Up To\u0027 columns automatically. Messages: long-press a teammate\u0027s message to highlight and copy the text (handy for part numbers)."
+    "versionCode":  120,
+    "versionName":  "12.4",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.4.apk",
+    "sha256":  "88041f02cf329a0c5bb455c40ffaea6e2c300d6bef0ec8b9681036e2addf7523",
+    "notes":  "Superseded part numbers: when a part number is discontinued, open the part and you\u0027ll see the current replacement number to order instead; a current part shows which old numbers it replaces. Set these up on the Parts Desk under the new Superseded tab."
 }
