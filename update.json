@@ -1,7 +1,7 @@
 {
-    "versionCode":  117,
-    "versionName":  "12.1",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.1.apk",
-    "sha256":  "24d14ee1fe6e075790ed757d289955646a171c5cdb2d35f41b3c96375a1060d9",
-    "notes":  "Security hardening. The in-app updater now verifies every download before installing — it only accepts files from FlowTech\u0027s GitHub over HTTPS, checks the download\u0027s fingerprint, and refuses to install anything not signed by FlowTech\u0027s own key. All network traffic is locked to HTTPS. No feature changes."
+    "versionCode":  118,
+    "versionName":  "12.2",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.2.apk",
+    "sha256":  "8e606989e2494200293b742e0d96f29a0f227c3aeedf0da4d1eb44f4c503af14",
+    "notes":  "Part photos: tap any part\u0027s photo to open it full screen (pinch to zoom). Once a part\u0027s photo has been approved and shared to the team, it\u0027s locked so it can\u0027t be accidentally replaced or removed — you can still tap to view it."
 }
