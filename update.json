@@ -1,7 +1,7 @@
 {
-    "versionCode":  118,
-    "versionName":  "12.2",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.2.apk",
-    "sha256":  "8e606989e2494200293b742e0d96f29a0f227c3aeedf0da4d1eb44f4c503af14",
-    "notes":  "Part photos: tap any part\u0027s photo to open it full screen (pinch to zoom). Once a part\u0027s photo has been approved and shared to the team, it\u0027s locked so it can\u0027t be accidentally replaced or removed — you can still tap to view it."
+    "versionCode":  119,
+    "versionName":  "12.3",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.3.apk",
+    "sha256":  "15aa37225903638849a4214a0bae7e8ce5e9da4d2c93a3d76ec617fd20a291a3",
+    "notes":  "Warehouse Min/Max: warehouse parts now show stock health like the truck does — a Low / Overstock / Needs-setup tag in the list, and a Stock status view (with a Min-Max gauge and how many to order) when you open a part. Imports now read Dynamics GP \u0027Order Point / Order Up To\u0027 columns automatically. Messages: long-press a teammate\u0027s message to highlight and copy the text (handy for part numbers)."
 }
