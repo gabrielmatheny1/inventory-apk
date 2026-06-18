@@ -1,6 +1,7 @@
 {
-    "versionCode":  116,
-    "versionName":  "12.0",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.0.apk",
-    "notes":  "Live inventory sync. Your truck now updates the moment the office uploads inventory or Min/Max — no need to close and reopen the app. New parts appear, removed parts drop off, counts and levels refresh automatically, with the cloud as the source of truth. Anything you change offline is kept and synced up the instant you\u0027re back online (a count you make in the field is never overwritten by an upload). The manual import is now a clearly-labeled fallback for when the office can\u0027t push to you."
+    "versionCode":  117,
+    "versionName":  "12.1",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.1.apk",
+    "sha256":  "24d14ee1fe6e075790ed757d289955646a171c5cdb2d35f41b3c96375a1060d9",
+    "notes":  "Security hardening. The in-app updater now verifies every download before installing — it only accepts files from FlowTech\u0027s GitHub over HTTPS, checks the download\u0027s fingerprint, and refuses to install anything not signed by FlowTech\u0027s own key. All network traffic is locked to HTTPS. No feature changes."
 }
