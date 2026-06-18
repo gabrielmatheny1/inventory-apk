@@ -1,7 +1,7 @@
 {
-    "versionCode":  120,
-    "versionName":  "12.4",
-    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.4.apk",
-    "sha256":  "88041f02cf329a0c5bb455c40ffaea6e2c300d6bef0ec8b9681036e2addf7523",
-    "notes":  "Superseded part numbers: when a part number is discontinued, open the part and you\u0027ll see the current replacement number to order instead; a current part shows which old numbers it replaces. Set these up on the Parts Desk under the new Superseded tab."
+    "versionCode":  121,
+    "versionName":  "12.5",
+    "apkUrl":  "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.5.apk",
+    "sha256":  "83ab3f88ee201cb7c21b1ed2a19ea831f0e5eac2d0f1d8a4f97cc58f53275626",
+    "notes":  "Manuals: when the office attaches a PDF manual to a part, open the part and tap it under \u0027Manuals\u0027 to view it. Also: in messages you can now highlight and copy text."
 }
