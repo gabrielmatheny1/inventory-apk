@@ -1,7 +1,7 @@
 {
-    "version": "4.5.4",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.4.zip",
-    "sha256": "691ddaccb6e2aafdc56853337e117b54fb9b29dfe21ef8209c538e0b67c9d167",
-    "sig": "bxfGcx8txZaUM/Bxm4lWS0oylmmXgcIFjUhmky91fqHewiPtagm4VcfLoi62NCXq7zWbhS5xBDhewV6Gl4yZhJP/rct9cqhfmWKiC95lhEd1uE/PLetUfxbQm3PSWmTgDK2ybnjeBXZDXYS1vAI+bjkenWJ9/rEWrRl233gLbLM3jVOtuGwg1g8F+SGTYvmiLooQJD2sv8d6rkl/c6q6hZEOlGnTM8YqEWolcEMzK8rJ9r4BVaeGPtl4lrYHZQ2Lw1YqD4V2dd2VSlJok/rY46XWQhcjHadyd5ANG1tkhDIzfPt/5plLICe0rXBjvP4WrbDy/yAXD3VgWa0vwP5PAw==",
-    "notes": "Smart search everywhere on the desk. The Superseded list, the Manuals list, and fleet part search now all use the same separator-insensitive, multi-term, ranked search as the catalog: '203 0447' finds '203-0447', and 'valve brass' needs both words."
+    "version": "4.5.5",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.5.zip",
+    "sha256": "86933e742c0287cc5cd56dc42f20ecb41f75933f63acbb0fc47a1b0284d1f142",
+    "sig": "Hj0LuPqueUwebmJJjz4Ym1W3twh+pJAZFIE+dMR7ygZeOij0D/1rcv7w4U01td+104U/w/cwU1tepLwimKokXd+JaoUTk7Y/EdEcKfLCupPBWxy/FxwxKiLBODrI2QTufDO1xwG89NmetGpjS24e09yNBJUmUpN6Zfxb/MblYgT3lT5hSkO6p/6Lh39WAtiFjfne0a6sNB5/OlZPn6j2lrtRNZ7UqLOqyBSlGGSNZxERMLnMrH0n4Vtu5XiHJTRYxXvFavaJ0hYxdCo/9sUcQzMf40j/w96GSA2UjJ+Wv/wK2nkXl97d6k10rCxHB7I/2nh5UoAyjdwDz2MjGOuLFw==",
+    "notes": "Movements you can act on + a safer warehouse upload. Right-click a part on a truck (or hit 'Movements' on a tech) to jump to its full in/out history, and Print/export the Activity list for a paper trail. Uploading a warehouse CSV now shows a preview — new / changed / dropping-off counts — and warns hard (with an 'I understand' check) if the file has no quantity column or would drop a big chunk of the catalog."
 }
