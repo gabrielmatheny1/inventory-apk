@@ -1,7 +1,7 @@
 {
-    "version": "4.5.6",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.6.zip",
-    "sha256": "39fba6437870820c9fb6c77e6f05c838e9005c1fba540eb639a4a73cedb9e7ea",
-    "sig": "ZY8Lpmi6eDClcS7q/rteaLYvllLAcFT1yc6w9Lm/JrLr3coSZyrUo30lzi72PZ42ajM339TDSMLYHyCplazqXeQZQDPgt8IKvGprgvbeMuCfwtXqrmg8+yYMBGWFZP9yOTTt8b6I6KJNPjPVK8my8iCHmgr8pc8jAB8kYgmZPz0qs+dTpNN13VP6SqjlCGG58xbF4GxwccaUisHZAInFTFF9RLX4tjuHEwScvecPY9UIjGdxrB/QAboWq0FmFX6SBXZ6mV7MfFle3pKl6n6LgSyZMNqnWdoSq7iZVErNzDwaMR/ARh4nFbgYfl3/vftbqJyIqdBylv3PAWT6OEGzcg==",
-    "notes": "Back-in-stock alerts for techs. When you update warehouse stock (CSV upload or a quantity edit), any tech who was waiting on an out-of-stock part is instantly notified it's back — and the desk shows how many techs were alerted."
+    "version": "4.5.3",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.3.zip",
+    "sha256": "ddbe2c2ecc18986511eec59338b12ae32aa0eb27fc020d7de7fd8a0fff6f98bf",
+    "sig": "i4Tqg1RULjD9av04LsTMR7DGv5XVHsm2GUpLpTREUKZz3HdY0w1vcTmnjG/kbyKHjyVWIQW+u4WEoJ3rgFCnGolr70UAAhMFXdntHZcwot7VlhzoO3KiEoy5SeN0Qn8ub2C4E5/eKB9ngxA47GOaH9yLrYC8Cas3++01vwEb2WIDIQnZNt0npK4TNeYCZielx/NRIpgw5ECakRA8zQlmJpIs+CJ2V9bPGoRQ9/9LfCHhg4n4N5TchKTwTy2dkm8TxdezGK0XnHQNQG8wkxDutJjeOAeGL5j689kXViO3aIY8uEyrqre6T/TA4Uhez/s+zK0BXw+tpI7UXpz9VLp/qA==",
+    "notes": "Hold at 4.5.3 — desk updates paused while we sort the Windows Smart App Control signing issue."
 }
