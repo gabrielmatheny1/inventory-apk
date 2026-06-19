@@ -1,7 +1,7 @@
 {
-    "versionCode": 123,
-    "versionName": "12.7",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.7.apk",
-    "sha256": "ab6f05f868bcd1466d0ec95ad9369267ca53b795d65ed82f0d4bed01dd1387e6",
-    "notes": "Smoother + safer. Your check-out/check-in cart now survives a crash or restart — it's saved as you build it. On Find a Part, every teammate who's carrying it has a one-tap 'Request transfer' button (no more long-press hunting). And behind the scenes, desk transfers and shared part photos sync more reliably."
+    "versionCode": 124,
+    "versionName": "12.8",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.8.apk",
+    "sha256": "ea3bca169b96d9e8248bf6c58013cd832ec28b9714c09bb3d6f961bc959994a9",
+    "notes": "Stop chasing parts that aren't there. When you look up a warehouse part that's out of stock, it now says so in red — no wasted trip — and you can tap 'Notify' to be alerted the moment the office restocks it. (Need it sooner? Find a Part still shows which teammates are carrying it.)"
 }
