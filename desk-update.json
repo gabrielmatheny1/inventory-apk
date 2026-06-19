@@ -1,7 +1,7 @@
 {
-    "version": "4.5.5",
-    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.5.zip",
-    "sha256": "86933e742c0287cc5cd56dc42f20ecb41f75933f63acbb0fc47a1b0284d1f142",
-    "sig": "Hj0LuPqueUwebmJJjz4Ym1W3twh+pJAZFIE+dMR7ygZeOij0D/1rcv7w4U01td+104U/w/cwU1tepLwimKokXd+JaoUTk7Y/EdEcKfLCupPBWxy/FxwxKiLBODrI2QTufDO1xwG89NmetGpjS24e09yNBJUmUpN6Zfxb/MblYgT3lT5hSkO6p/6Lh39WAtiFjfne0a6sNB5/OlZPn6j2lrtRNZ7UqLOqyBSlGGSNZxERMLnMrH0n4Vtu5XiHJTRYxXvFavaJ0hYxdCo/9sUcQzMf40j/w96GSA2UjJ+Wv/wK2nkXl97d6k10rCxHB7I/2nh5UoAyjdwDz2MjGOuLFw==",
-    "notes": "Movements you can act on + a safer warehouse upload. Right-click a part on a truck (or hit 'Movements' on a tech) to jump to its full in/out history, and Print/export the Activity list for a paper trail. Uploading a warehouse CSV now shows a preview — new / changed / dropping-off counts — and warns hard (with an 'I understand' check) if the file has no quantity column or would drop a big chunk of the catalog."
+    "version": "4.5.6",
+    "url": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-desk-4.5.6.zip",
+    "sha256": "39fba6437870820c9fb6c77e6f05c838e9005c1fba540eb639a4a73cedb9e7ea",
+    "sig": "ZY8Lpmi6eDClcS7q/rteaLYvllLAcFT1yc6w9Lm/JrLr3coSZyrUo30lzi72PZ42ajM339TDSMLYHyCplazqXeQZQDPgt8IKvGprgvbeMuCfwtXqrmg8+yYMBGWFZP9yOTTt8b6I6KJNPjPVK8my8iCHmgr8pc8jAB8kYgmZPz0qs+dTpNN13VP6SqjlCGG58xbF4GxwccaUisHZAInFTFF9RLX4tjuHEwScvecPY9UIjGdxrB/QAboWq0FmFX6SBXZ6mV7MfFle3pKl6n6LgSyZMNqnWdoSq7iZVErNzDwaMR/ARh4nFbgYfl3/vftbqJyIqdBylv3PAWT6OEGzcg==",
+    "notes": "Back-in-stock alerts for techs. When you update warehouse stock (CSV upload or a quantity edit), any tech who was waiting on an out-of-stock part is instantly notified it's back — and the desk shows how many techs were alerted."
 }
