@@ -1,7 +1,7 @@
 {
-    "versionCode": 124,
-    "versionName": "12.8",
-    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.8.apk",
-    "sha256": "ea3bca169b96d9e8248bf6c58013cd832ec28b9714c09bb3d6f961bc959994a9",
-    "notes": "Stop chasing parts that aren't there. When you look up a warehouse part that's out of stock, it now says so in red — no wasted trip — and you can tap 'Notify' to be alerted the moment the office restocks it. (Need it sooner? Find a Part still shows which teammates are carrying it.)"
+    "versionCode": 125,
+    "versionName": "12.9",
+    "apkUrl": "https://github.com/gabrielmatheny1/inventory-apk/releases/download/Tech/FlowTech-v12.9.apk",
+    "sha256": "bd7ea3f1f9875435c416ed3502beb90e249340f79b9757e8b829c26b86c6d157",
+    "notes": "On your Daily plan, tap any pick to see if it's actually in stock at the warehouse — and if it's out, flip on 'Notify me when it's back' right there. The checkbox still checks the line off; tapping the item just opens the detail."
 }
